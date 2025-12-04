@@ -34,4 +34,4 @@ You should add the following dependency to the pom file
         <version>9.5.0</version>
     </dependency>
 </dependencies>
-```sql
+```bash
